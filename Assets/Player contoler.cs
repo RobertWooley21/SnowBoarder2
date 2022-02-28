@@ -6,16 +6,19 @@ public class Playercontoler : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    { {SerializeField
-        GetComponent <reichit body >
+    { { SerializeField
+        GetComponent < reichit body >
     }
 
-    // Update is called once per frame
-    void Update()
-   { if(Input.GetKeyUp.RightArrow)
+        // Update is called once per frame
+        void Update()
+        {
 
-   
-    { 
-        rb2d
-    } if(Input.keyCode.LeftAreow)
-    }
+            if (Input.GetKeyUp.RightArrow)
+            {
+                rb2d
+                    if (Input.)
+            } // if
+
+        } // Update()
+}
