@@ -16,8 +16,9 @@ public class Playercontoler : MonoBehaviour
 
             if (Input.GetKeyUp.RightArrow)
             {
-                rb2d
-                    if (Input.)
+                r
+                    b2d
+                    if (Input.) ;
             } // if
 
         } // Update()
