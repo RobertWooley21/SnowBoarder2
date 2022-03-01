@@ -7,6 +7,7 @@ public class Playercontoler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     { { SerializeField
+        SerializeField
         GetComponent < reichit body >
     }
 
