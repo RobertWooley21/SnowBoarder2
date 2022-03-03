@@ -6,15 +6,22 @@ public class Playercontoler : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    { { SerializeField
-        SerializeField
+    { {
+            SurfaceEffector2D = FindObjectOfType<SurfaceEffector2D>;
+            [SerializeField]
+            [SerializeField]
+             serializeF
         GetComponent < reichit body >
     }
-
+        surfaceEffect2D.speed = bootSpeed;
         // Update is called once per frame
         void Update()
-        {
+        { 
+            else
+            {
+                
 
+            }
             if (Input.GetKeyUp.RightArrow)
             {
                 r
@@ -23,4 +30,7 @@ public class Playercontoler : MonoBehaviour
             } // if
 
         } // Update()
-}
+}             if(other.gameObject)
+
+    if (Input.GetKey)
+        {dustPartical.Stop(0);

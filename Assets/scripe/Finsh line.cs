@@ -6,14 +6,17 @@ public class NewBehaviourScript : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        [SerializeField] float loadDelay;
         [SerializeField] ParticleSystem finishEffect;
     }
     // Start is called before the first frame update
     void Start()
     {
-        finishEffect.playEffect;
+        finishEffect.play();
         Debug.Log("your Finush");
+        GetComponent<Aido>   
     }
+
 
     // Update is called once per frame
     void Update()
